@@ -1,2 +1,2 @@
-ssh simple client for go
+simple ssh client for go
 ---
